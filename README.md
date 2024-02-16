@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeanVos
+- 👋 Hi, I’m @Jann
 - Sometimes I create something.
 - 👀 I’m interested in gemdev and space.
 - 🌱 I’m currently learning software engineering.
